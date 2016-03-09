@@ -1,6 +1,6 @@
 # grid-custom-lucho
 Grid Custom for all browsers
 
-  - No fix style for IE
+  - No need a fix.js for columns in IE8+
   - Free Use
-  - Magic
+  - Your websites equal in all browsers
