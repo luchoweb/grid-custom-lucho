@@ -1,3 +1,6 @@
 # grid-custom-lucho
 Grid Custom for all browsers
-Compatible with IE8+
+
+  - No fix style for IE
+  - Free Use
+  - Magic
