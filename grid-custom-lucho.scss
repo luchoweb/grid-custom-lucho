@@ -108,3 +108,28 @@
 .fz-20{
 	font-size: 20px !important;
 }
+
+.show-mobile{
+	display: none;
+	@media screen and (max-width: 768px) {
+		display: block;
+	}
+}
+.show-mobile-col{
+	display: none;
+	@media screen and (max-width: 768px) {
+		display: inline-block;
+	}
+}
+.hide-mobile{
+	display: block;
+	@media screen and (max-width: 768px) {
+		display: none;
+	}
+}
+.hide-mobile-col{
+	display: inline-block;
+	@media screen and (max-width: 768px) {
+		display: none;
+	}
+}
